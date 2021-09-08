@@ -1,33 +1,35 @@
 {
-	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2021"
+	"Classes": [{
+		"Id": "INFO206A",
+		"Title": "DATA STR/ANALYTICS",
+		"Professor": "Benjamin Allen",
+		"Schedule": "MW 2:00pm - 3:59pm",
+		"Classroom": "Cory 277",
+		"Credits": "2"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Id": "INFO271B",
+		"Title": "QUANT RES METHODS",
+		"Professor": "Coye Cheshire, Andrew Chong",
+		"Schedule": "TTh 12:30pm - 1:59pm",
+		"Classroom": "Barker 101",
+		"Credits": "3"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Id": "INFO256",
+		"Title": "APPL NAT LANG PROC",
+		"Professor": "David Bamman",
+		"Schedule": "TTh 2:00pm - 3:29pm",
+		"Classroom": "South Hall 210",
+		"Credits": "3"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
-	},
-	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Id": "INFO201",
+		"Title": "RESEARCH DESIGN",
+		"Professor": "Michael Rivera",
+		"Schedule": "W 6:30pm - 7:59pm",
+		"Classroom": "Valley Life Sciences 2040",
+		"Credits": "3"
 	}]
 	
 }
